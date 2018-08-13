@@ -1,0 +1,20 @@
+p{
+	/* border:1px solid red; */
+}
+
+#demo{
+	background-color:green;
+	height: 300px;
+	width: 300px;
+	padding: 10px;
+	border:1px solid red;
+	margin:20px;
+}
+
+.prop{
+	font-size:40px;
+	text-align: right; 
+}
+.prop1{
+	color:green;
+}
